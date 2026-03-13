@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "district": "Chennai",
+          "flood_risk": "high"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[80.27, 13.08], [80.30, 13.09], [80.29, 13.06], [80.27, 13.08]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "district": "Coimbatore",
+          "flood_risk": "low"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[76.96, 11.01], [76.98, 11.02], [76.97, 10.99], [76.96, 11.01]]]
+        }
+      }
+    ]
+  }
+  
